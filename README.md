@@ -7,4 +7,11 @@ It is my personal note for lecture `Introduction to database` in university.
   * unary relationship
   * binary relationship
   * ternary relationship
-* Data Model
+* File management system vs Database system
+* Data Independence
+
+## 2. Database System Architecture
+* 3-levels of data representation
+ * External level: application
+ * Conceptual level: integrity
+ * Internal level: physical storage

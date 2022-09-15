@@ -12,6 +12,6 @@ It is my personal note for lecture `Introduction to database` in university.
 
 ## 2. Database System Architecture
 * 3-levels of data representation
- * External level: application
- * Conceptual level: integrity
- * Internal level: physical storage
+  * External level: application
+  * Conceptual level: integrity
+  * Internal level: physical storage

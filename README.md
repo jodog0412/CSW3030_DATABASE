@@ -20,5 +20,12 @@ It is my personal note for lecture `Introduction to database` in university.
     * `Conceptual level`: view for integrity
     * `Internal level`: view for physical storage
   * Diagram   
-  <img src="https://user-images.githubusercontent.com/83653380/191163835-e74c5e01-1850-4e60-ab4e-e239526db440.png" width="50%" height="50%" alt="Database architecture diagram"></img>
+  <img src="https://user-images.githubusercontent.com/83653380/191163835-e74c5e01-1850-4e60-ab4e-e239526db440.png" width="50%" height="50%" alt="Database architecture diagram"></img>   
+* Client/Server Architecture
+  * Basic Structure
+    * End User
+    * Applications: Clients=frontend
+    * DBMS: Server=backend
+    * DataBase
+  * Distributed Processing
 

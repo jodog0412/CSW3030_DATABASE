@@ -14,13 +14,12 @@ It is my personal note for lecture `Introduction to database` in university.
 * 3-levels of data representation
   * Purpose
     * `Data Indenpendence`
-    * 사용자의 view와 데이터 저장 방식에 대한 `flexibity` and `adaptability`
-  * Composition 
+    * 사용자의 view와 데이터 저장 방식에 대한 `flexibity` and `adaptability`   
+  * Composition   
+  <img src="https://user-images.githubusercontent.com/83653380/191163835-e74c5e01-1850-4e60-ab4e-e239526db440.png" width="60%" height="60%" alt="Database architecture diagram"></img>   
     * `External level`: view for application
     * `Conceptual level`: view for integrity
-    * `Internal level`: view for physical storage
-  * Diagram   
-  <img src="https://user-images.githubusercontent.com/83653380/191163835-e74c5e01-1850-4e60-ab4e-e239526db440.png" width="60%" height="60%" alt="Database architecture diagram"></img>   
+    * `Internal level`: view for physical storage    
 * Client/Server Architecture
   * Basic Structure
     * End User

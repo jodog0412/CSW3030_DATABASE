@@ -16,6 +16,6 @@ It is my personal note for lecture `Introduction to database` in university.
     * `Data Indenpendence`
     * 사용자의 view와 데이터 저장 방식에 대한 `flexibity` and `adaptability`
   * Composition 
-    * External level: view for application
-    * Conceptual level: view for integrity
-    * Internal level: view for physical storage
+    * `External level` view for application
+    * `Conceptual level` view for integrity
+    * `Internal level` view for physical storage

@@ -8,7 +8,7 @@ It is my personal note for lecture `Introduction to database` in university.
   * binary relationship
   * ternary relationship
 * File management system vs Database system
-* Data Independence
+* Data Independence: the immunity of applications to change in storage structure and access technique
 
 ## 2. Database System Architecture
 * 3-levels of data representation

@@ -20,11 +20,15 @@ It is my personal note for lecture `Introduction to database` in university.
     * `External level`: view for application
     * `Conceptual level`: view for integrity
     * `Internal level`: view for physical storage    
-* Client/Server Architecture
+* Client-Server Computing
   * Basic Structure
     * End User
     * Applications: Clients=frontend
     * DBMS: Server=backend
     * DataBase
-  * Distributed Processing
+  * Distributed Processing   
+  ![Client-DB](https://user-images.githubusercontent.com/83653380/191639352-5b2e89a0-693e-4b91-9339-625c6d1fb756.png)
+  ![Client-Server](https://user-images.githubusercontent.com/83653380/191639525-a234e00d-b15c-43ab-b083-71afdf109d41.png)
+
+
 

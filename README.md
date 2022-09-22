@@ -27,8 +27,13 @@ It is my personal note for lecture `Introduction to database` in university.
     * DBMS: Server=backend
     * DataBase
   * Distributed Processing   
-  ![Client-DB](https://user-images.githubusercontent.com/83653380/191639352-5b2e89a0-693e-4b91-9339-625c6d1fb756.png)
-  ![Client-Server](https://user-images.githubusercontent.com/83653380/191639525-a234e00d-b15c-43ab-b083-71afdf109d41.png)
+   * Client-DB   
+  ![Client-DB](https://user-images.githubusercontent.com/83653380/191639352-5b2e89a0-693e-4b91-9339-625c6d1fb756.png)  
+   * Client-Server  
+  ![Client-Server](https://user-images.githubusercontent.com/83653380/191639525-a234e00d-b15c-43ab-b083-71afdf109d41.png)  
+   * Distribution Processing  
+  ![image](https://user-images.githubusercontent.com/83653380/191639689-dac1da3c-8f44-4fb3-a806-385dc457db87.png)
+
 
 
 

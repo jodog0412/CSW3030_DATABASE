@@ -1,7 +1,7 @@
 # CSW3030_DATABASE
 personal note for the lecture CSW3030: `Introduction to database`
 
-## 1. Overview of database management
+## 1. Overview
 * Database system=Database management system(DBMS)+Hardware+Data+User
 * Entities and Relations
   * unary relationship
@@ -41,7 +41,12 @@ personal note for the lecture CSW3030: `Introduction to database`
  * Structure
    * 2-Tier: Client-Server
    * 3-Tier: Client-Application server-Database server
-
-
+## 4. Data Model
+ * Relational model
+   * E-R Relation
+     * Entity
+     * Attribute
+ * Hierarchical model
+ * Network model
 
 

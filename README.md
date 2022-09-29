@@ -42,11 +42,19 @@ personal note for the lecture CSW3030: `Introduction to database`
    * 2-Tier: Client-Server
    * 3-Tier: Client-Application server-Database server
 ## 4. Data Model
- * Relational model
-   * E-R Relation
-     * Entity
-     * Attribute
- * Hierarchical model
- * Network model
+* Models
+  * Hierarchical model
+  * Network model
+  * Relational model
+* E-R Relations
+  * Entity&Attribute
+  * Relationship
+    * One and Many
+    * Binary and Nonbinary, Ternary
+  * Mapping Cardinates
+  * E-R Diagrams  
+  <img src="https://user-images.githubusercontent.com/83653380/192920689-4587ce2c-65c6-4b32-a667-c6d83aff38fb.png" width="60%" height="60%" alt="Client-Server"></img>
+
+  
 
 

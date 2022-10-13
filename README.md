@@ -58,9 +58,12 @@ personal note for the lecture CSW3030: `Introduction to database`
   * E-R features: specialization  
   <img src="https://user-images.githubusercontent.com/83653380/194197980-eff176c5-96d2-47c1-a91f-f58884b6716d.png" width="60%" height="60%" alt="specialization"></img>
   * Specialization and Generalization
+
 ## 5. Relational Databases
 * Primary&foreign key
 * What relation means
-
-
-
+* Optimization
+* The catalog
+* Base relvars and views
+  * Base relvar vs Derived relvar
+  * View in catalog
